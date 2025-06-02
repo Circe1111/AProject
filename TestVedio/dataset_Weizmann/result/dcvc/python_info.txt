@@ -1,4 +1,0 @@
-Python版本: 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]
-PyTorch版本: 2.7.0+cu126
-CUDA是否可用: True
-PIL版本: 11.2.1
