@@ -1,0 +1,45 @@
+2025/06/01 ���� 18:59:22.10: Starting remaining daria_jack encoding 
+周日 2025/06/01 19:00:31.31: Starting remaining daria_jack encoding 
+周日 2025/06/01 19:00:31.31: Completed daria_jack intra QP32 
+周日 2025/06/01 19:00:31.31: Completed daria_jack intra QP42 
+周日 2025/06/01 19:01:20.61: Finished remaining daria_jack encoding 
+周日 2025/06/01 19:06:42.37: Starting remaining daria_jack encoding 
+周日 2025/06/01 19:06:42.37: Completed daria_jack intra QP32 
+周日 2025/06/01 19:06:42.37: Completed daria_jack intra QP42 
+周日 2025/06/01 19:07:31.62: Finished remaining daria_jack encoding 
+周日 2025/06/01 19:10:14.17: Starting remaining daria_jack encoding 
+周日 2025/06/01 19:10:14.18: Completed daria_jack intra QP32 
+周日 2025/06/01 19:10:14.18: Completed daria_jack intra QP42 
+周日 2025/06/01 19:16:31.84: Finished remaining daria_jack encoding 
+周日 2025/06/01 19:17:37.87: Starting remaining daria_jack encoding 
+2025/06/01 ���� 19:18:32.59: Starting remaining daria_jack encoding 
+2025/06/01 ���� 19:18:32.60: Completed daria_jack intra QP22 
+周日 2025/06/01 19:21:31.86: Starting remaining daria_jack encoding 
+周日 2025/06/01 19:23:49.74: Starting remaining daria_jack encoding 
+周日 2025/06/01 19:23:49.75: Completed daria_jack intra QP22 
+周日 2025/06/01 19:23:49.75: Completed daria_jack intra QP32 
+周日 2025/06/01 19:23:49.75: Completed daria_jack intra QP42 
+周日 2025/06/01 19:23:49.75: Completed daria_jack intra QP50 
+周日 2025/06/01 19:39:49.06: Finished remaining daria_jack encoding 
+周日 2025/06/01 19:48:23.27: 开始 daria_jack 编码 
+周日 2025/06/01 19:48:23.29: 完成 daria_jack lowdelay QP42 
+周日 2025/06/01 19:48:23.29: 完成 daria_jack lowdelay QP32 
+周日 2025/06/01 19:50:11.32: 完成 daria_jack 编码 
+周日 2025/06/01 20:00:21.56: 开始 Beauty_1920x1080_120fps_420_8bit_YUV 编码 
+周日 2025/06/01 20:07:34.98: 开始 Beauty_1920x1080_120fps_420_8bit_YUV 编码 
+周日 2025/06/01 20:08:33.84: 开始 Beauty_1920x1080_120fps_420_8bit_YUV 编码 
+周日 2025/06/01 20:10:01.49: 开始 Beauty_1920x1080_120fps_420_8bit_YUV 编码 
+2025/06/01 ���� 20:40:43.70: 开�?Beauty_1920x1080_120fps_420_8bit_YUV 编码 
+周日 2025/06/01 20:40:43.75: 完成 Beauty_1920x1080_120fps_420_8bit_YUV dcvc QP35 
+周日 2025/06/01 20:40:47.71: 完成 Beauty_1920x1080_120fps_420_8bit_YUV 编码 
+周日 2025/06/01 20:52:23.86: 开始 daria_jack 编码 
+周日 2025/06/01 20:52:23.88: 完成 daria_jack dcvc QP35 
+周日 2025/06/01 20:52:26.58: 完成 daria_jack 编码 
+周日 2025/06/01 20:54:26.94: 完成 daria_jack dcvc QP%q 
+周日 2025/06/01 20:54:26.95: 完成 daria_jack 编码 
+周日 2025/06/01 20:54:54.86: 开始 daria_jack 编码 
+周日 2025/06/01 20:54:57.75: 完成 daria_jack dcvc QP35 
+周日 2025/06/01 20:55:01.66: 完成 daria_jack 编码 
+周日 2025/06/01 20:56:47.93: 开始 daria_jack 编码 
+周日 2025/06/01 20:56:50.74: 完成 daria_jack dcvc QP35 
+周日 2025/06/01 20:56:53.86: 完成 daria_jack 编码 
